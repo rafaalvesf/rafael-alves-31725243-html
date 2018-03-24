@@ -1,0 +1,34 @@
+header{
+  height: 60px;
+  padding: 20px;
+  background-color: #ebebe0
+}
+aside{
+  padding: 2%;
+  height: 350px;
+  width: 14%;
+  background-color: #d6d6c2;
+  float: left;
+  
+}
+main{
+  height: 350px;
+  width: 78%;
+  padding: 2%;
+  background-color: #e0e0d1;
+  margin: 0 auto;
+  float: left;
+}
+footer{
+  height: 50px;
+  padding: 10px;
+  background-color: #ebebe0;
+  clear: both;
+  
+}
+span{
+  color:#595959;
+  font-family: "Arial";
+  font-size: 24px;
+  font-weight: bold;
+}
