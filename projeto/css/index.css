@@ -5,14 +5,14 @@ header{
 }
 aside{
   padding: 2%;
-  height: 350px;
+  height: 500px;
   width: 14%;
   background-color: #d6d6c2;
   float: left;
   
 }
 main{
-  height: 350px;
+  height: 500px;
   width: 78%;
   padding: 2%;
   background-color: #e0e0d1;
@@ -31,4 +31,10 @@ span{
   font-family: "Arial";
   font-size: 24px;
   font-weight: bold;
+}
+
+img{
+  margin-left: 10%;
+  height: 500px;
+  width: 1000px;
 }
