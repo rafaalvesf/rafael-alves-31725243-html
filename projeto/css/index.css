@@ -12,6 +12,7 @@ aside{
   
 }
 main{
+  text-align: center;
   height: 500px;
   width: 78%;
   padding: 2%;
@@ -34,7 +35,8 @@ span{
 }
 
 img{
-  margin-left: 10%;
+
+  margin-left: 0 auto;
   height: 500px;
   width: 1000px;
 }
